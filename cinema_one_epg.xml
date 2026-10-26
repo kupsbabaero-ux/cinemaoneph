@@ -3,24 +3,20 @@
   <channel id="CinemaOne.ph">
     <display-name>Cinema One</display-name>
   </channel>
-  <programme start="20261026060000 +0800" stop="20261026080000 +0800" channel="CinemaOne.ph">
-    <title lang="en">Cinema One Opening / Morning Block</title>
-    <desc lang="en">Automatically generated schedule from ClickTheCity EPG.</desc>
+  <programme start="20261026170000 +0800" stop="20261026190000 +0800" channel="CinemaOne.ph">
+    <title lang="en">Shake, Rattle &amp; Roll 12</title>
+    <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261026080000 +0800" stop="20261026100000 +0800" channel="CinemaOne.ph">
-    <title lang="en">Pinoy Classic Blockbuster</title>
-    <desc lang="en">Automatically generated schedule from ClickTheCity EPG.</desc>
+  <programme start="20261026190000 +0800" stop="20261026210000 +0800" channel="CinemaOne.ph">
+    <title lang="en">Last Night</title>
+    <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261026100000 +0800" stop="20261026120000 +0800" channel="CinemaOne.ph">
-    <title lang="en">Main Feature Presentation</title>
-    <desc lang="en">Automatically generated schedule from ClickTheCity EPG.</desc>
+  <programme start="20261026210000 +0800" stop="20261026230000 +0800" channel="CinemaOne.ph">
+    <title lang="en">The Love Affair</title>
+    <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261026120000 +0800" stop="20261026140000 +0800" channel="CinemaOne.ph">
-    <title lang="en">Primetime Blockbuster</title>
-    <desc lang="en">Automatically generated schedule from ClickTheCity EPG.</desc>
-  </programme>
-  <programme start="20261026140000 +0800" stop="20261026160000 +0800" channel="CinemaOne.ph">
-    <title lang="en">Late Night Feature</title>
-    <desc lang="en">Automatically generated schedule from ClickTheCity EPG.</desc>
+  <programme start="20261026230000 +0800" stop="20261027010000 +0800" channel="CinemaOne.ph">
+    <title lang="en">Abandoned</title>
+    <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
 </tv>
