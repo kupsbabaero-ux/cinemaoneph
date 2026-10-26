@@ -1,0 +1,30 @@
+name: Auto Update EPG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run EPG Script
+        run: python epg_generator.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Auto-update Cinema One EPG XML'
+          file_patterns: cinema_one_epg.xml
