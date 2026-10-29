@@ -3,19 +3,19 @@
   <channel id="CinemaOne.ph">
     <display-name>Cinema One</display-name>
   </channel>
-  <programme start="20261028170000 +0800" stop="20261028190000 +0800" channel="CinemaOne.ph">
+  <programme start="20261029170000 +0800" stop="20261029190000 +0800" channel="CinemaOne.ph">
     <title lang="en">Shake, Rattle &amp; Roll 12</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261028190000 +0800" stop="20261028210000 +0800" channel="CinemaOne.ph">
+  <programme start="20261029190000 +0800" stop="20261029210000 +0800" channel="CinemaOne.ph">
     <title lang="en">Last Night</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261028210000 +0800" stop="20261028230000 +0800" channel="CinemaOne.ph">
+  <programme start="20261029210000 +0800" stop="20261029230000 +0800" channel="CinemaOne.ph">
     <title lang="en">The Love Affair</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261028230000 +0800" stop="20261029010000 +0800" channel="CinemaOne.ph">
+  <programme start="20261029230000 +0800" stop="20261030010000 +0800" channel="CinemaOne.ph">
     <title lang="en">Abandoned</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
